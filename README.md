@@ -44,4 +44,10 @@ POST
 Try it out
  
  [Demo](https://youtu.be/Q3RF1sWRjm0)
+ 
+ ## To run the app:
+ pip install requirements.txt //(python 3.6, install Cmake before Dlib)
+ run server.py
+ run index.html on a live server
+ 
 
