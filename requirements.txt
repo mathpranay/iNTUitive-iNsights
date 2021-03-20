@@ -7,7 +7,7 @@ Flask-Cors==3.0.8
 imageio==2.6.1
 imutils==0.5.3
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 jsonify==0.5
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
