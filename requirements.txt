@@ -3,7 +3,7 @@ cycler==0.10.0
 decorator==4.4.0
 dlib==19.18.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 imageio==2.6.1
 imutils==0.5.3
 itsdangerous==1.1.0
